@@ -3,7 +3,6 @@ from tkinter import *
 from tkinter import messagebox
 
 # Create the interface object
-
 clockWindow = Tk()
 clockWindow.geometry("500x500")
 clockWindow.title("Countdown Timer")
