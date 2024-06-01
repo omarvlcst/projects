@@ -3,7 +3,7 @@ A compendium of my projects, from beginner to advanced level, developed by me (w
 
 If interested in my integrator code for null geodesics in the Schwarzschild spacetime, please kindly direct to ~/posgrado/code.
 
-Some of these projects were found, and readapted from other places. Others were obtained from:
+Some of these projects were found, and readapted from other places. The ideas for developing others were obtained from:
 
 <ul>
 <li> <a href="https://github.com/karan/Projects"> Projects from github.com/karan/ </a></li>
