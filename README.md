@@ -6,6 +6,6 @@ If interested in my integrator code for null geodesics in the Schwarzschild spac
 Some of these projects were found, and readapted from other places. The ideas for developing others were obtained from:
 
 <ul>
-<li> <a href="https://github.com/karan/Projects"> Projects from github.com/karan/ </a></li>
-<li> <a href="https://web.archive.org/web/20180612183650if_/https://github.com/jorgegonzalez/beginner-projects"> Beginner projects from github.com/jorgegonzalez/ </a></li>
+<li> Projects from  <a href="https://github.com/karan/Projects"> github.com/karan/ </a></li>
+<li> Beginner projects from <a href="https://web.archive.org/web/20180612183650if_/https://github.com/jorgegonzalez/beginner-projects"> github.com/jorgegonzalez/ </a></li>
 </ul>
