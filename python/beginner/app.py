@@ -1,3 +1,5 @@
+# Tested in Python3.12, didn't work in Python3.9
+
 import requests
 
 base_url = "https://pokeapi.co/api/v2/pokemon"
